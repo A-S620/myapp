@@ -1,0 +1,20 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Learning and building coding skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AatikaSeedat/myapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AatikaSeedat/myapp/issues"
+  },
+  "homepage": "https://github.com/AatikaSeedat/myapp#readme"
+}
